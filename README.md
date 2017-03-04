@@ -1,6 +1,6 @@
-# npm-package-template
+# ticket-doctor
 
-An npm package template.
+An ticket to the doctor.
 
 ## Installation
 

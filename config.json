@@ -1,0 +1,28 @@
+{
+	"links": {
+		"p86": {
+			"url": "http://p-86.ru",
+			"xpath": {
+				"gp86": "/html/body/div[3]/div[4]/div[3]/ul[1]/ul/li[1]/a",
+				"po57": "/html/body/div[3]/div[4]/div[3]/ul[2]/ul/li[1]/a",
+				"dpo59": "/html/body/div[3]/div[4]/div[3]/ul[3]/ul/li[1]/a",
+				"jk39": "/html/body/div[3]/div[4]/div[3]/ul[4]/ul/li[1]/a",
+				"covp": "/html/body/div[3]/div[4]/div[3]/ul[5]/ul/li[1]/a",
+				"childEC": "/html/body/div[3]/div[4]/div[3]/ul[7]/ul/li[1]/a",
+				"EC": "/html/body/div[3]/div[4]/div[3]/ul[8]/ul/li[1]/a"
+			}
+		}
+	},
+	
+	"clinic": "p86",
+	"po": "dpo59",
+	"doctor": "__ТЕРАПЕВТ",
+	"docName": "",
+	"date": "Любая дата",	
+	
+	"SURNAME": "Ф",
+	"NAME1": "И",
+	"NAME2": "О",
+	"DR": "",
+	"TEL": ""
+}

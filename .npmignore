@@ -3,3 +3,4 @@ coverage
 .eslint*
 .travis*
 .npmignore
+nbproject

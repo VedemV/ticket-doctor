@@ -1,7 +1,7 @@
 {
-  "name": "npm-package-template",
+  "name": "ticket-doctor",
   "version": "0.0.0",
-  "description": "An npm package template.",
+  "description": "An ticket to the doctor.",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
   "scripts": {
@@ -12,17 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/remarkablemark/npm-package-template"
+    "url": "https://github.com/VedemV/ticket-doctor"
   },
   "bugs": {
-    "url": "https://github.com/remarkablemark/npm-package-template/issues"
+    "url": "https://github.com/VedemV/ticket-doctor/issues"
   },
   "keywords": [
-    "npm",
-    "package",
-    "template"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "selenium-webdriver": "^3.1.0"
+  },
   "devDependencies": {
     "coveralls": "^2.11.15",
     "eslint": "^3.4.0",
