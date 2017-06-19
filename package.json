@@ -2,7 +2,7 @@
   "name": "ticket-doctor",
   "version": "0.0.0",
   "description": "An ticket to the doctor.",
-  "author": "Mark <mark@remarkablemark.org>",
+  "author": "Vedem <vedem.v@gmail.com>",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
